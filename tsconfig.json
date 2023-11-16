@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true,
+    "esModuleInterop": true,
+    "allowImportingTsExtensions": true,
+    "jsx": "react",
+    "lib": [
+      "es2015",
+      "dom"
+    ],
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
